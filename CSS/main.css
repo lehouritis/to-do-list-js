@@ -1,0 +1,52 @@
+body{
+    background-color: black !important;
+}
+
+#header{
+    text-align: center;
+    color: teal;
+}
+
+#first-guideline{
+    text-align: center;
+    color: yellow;
+}
+
+#second-guideline{
+    text-align: center;
+    color: green;
+}
+
+#submit-button{
+    margin: auto;
+    display: block;
+}
+
+i {
+    float: right;
+    padding: 5px;
+    background-color: transparent;
+    border-radius: 4px;
+}
+ 
+i:hover{
+    background-color: rgb(163, 162, 162);
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    border-radius: 10px;
+    font-weight: bold;
+    color:white !important;
+    background-color: #6c757d !important;
+}
+
+.done {  
+    background: #4bce67 !important;
+    color: #026e19 !important;
+    font-weight:bold ;
+}
